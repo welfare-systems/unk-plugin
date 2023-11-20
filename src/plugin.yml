@@ -1,0 +1,10 @@
+main: unknownvazguz13.unkplugin.Unkplugin
+version: 1.0.0
+name: UnkPlugin
+softdepend: [Vault]
+
+commands:
+  youtube:
+     description: El comando YouTube de UnkPlugin
+  unkplugin:
+     description: Comando de Informacion de UnkPlugin
